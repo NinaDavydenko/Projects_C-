@@ -1,0 +1,3 @@
+﻿  Tasker.cpp
+D:\_projects\CPP\Tasker\Tasker\Tasker.cpp(223,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Tasker.vcxproj -> D:\_projects\CPP\Tasker\Debug\Tasker.exe
